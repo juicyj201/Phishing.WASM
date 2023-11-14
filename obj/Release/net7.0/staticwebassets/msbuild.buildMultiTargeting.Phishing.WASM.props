@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Phishing.WASM.props" />
+</Project>

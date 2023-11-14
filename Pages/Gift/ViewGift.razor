@@ -1,0 +1,30 @@
+﻿@page "/{number}"
+@using System.Globalization;
+
+<!-- Header and Controls -->
+<PageTitle>Free Reward!</PageTitle>
+
+<div id="resizeDiv" class="grid-layout">
+    <div class="form">
+        <p class="head-sentence">Phone number: @phoneNumber</p>
+        <p class='head-sentence'>Fill out the fields below to recieve your gift reward and we will contact you within the next few business days.</p>
+
+        <fieldset class="user-info">
+            <label>
+                1. Enter your ID number or Tax Number *
+                <input type="number" name="id" placeholder="Enter your answer" value=@(user.IdTax) onChange=@(changeIdTax) />
+            </label>
+            <label>
+                2. Enter your Full Name *
+                <input type="text" name="name" placeholder="Enter your answer" value=@(user.Name) onChange=@(changeName) />
+            </label>
+            <label>
+                3. Enter your Mobile Number *
+                <input type="number" name="number" placeholder="Enter your answer" value=@(user.Number) onChange=@(changeNumber) />
+            </label>
+        </fieldset>
+        <fieldset class="user-send">
+            <input class="btn" type="submit" name="submit" value="Send" @onclick=@(sendInfo) />
+        </fieldset>
+    </div>
+</div>

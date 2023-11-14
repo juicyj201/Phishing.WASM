@@ -1,0 +1,17 @@
+﻿@page "/{number}/ThankYou"
+
+<PageTitle>Free Reward!</PageTitle>
+
+<div id="resizeDiv" class="grid-layout">
+    <div class="thank-you-form">
+        <center>
+            <p class="head-sentence">Thank you!</p>
+            <p class="head-sentence">Please wait patiently while your gift is being sent to you within the next few business days.</p>
+            <br/>
+            
+            <fieldset class="user-send">
+                <input class="btn" type="submit" name="submit" value="Done" @onclick=@(async () => await End()) />
+            </fieldset>
+        </center>
+    </div>
+</div>

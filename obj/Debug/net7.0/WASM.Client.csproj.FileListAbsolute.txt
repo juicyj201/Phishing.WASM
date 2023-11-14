@@ -1,0 +1,6 @@
+C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\WASM\Client\obj\Debug\net7.0\WASM.Client.csproj.AssemblyReference.cache
+C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\WASM\Client\obj\Debug\net7.0\WASM.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\WASM\Client\obj\Debug\net7.0\WASM.Client.AssemblyInfoInputs.cache
+C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\WASM\Client\obj\Debug\net7.0\WASM.Client.AssemblyInfo.cs
+C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\WASM\Client\obj\Debug\net7.0\WASM.Client.csproj.CoreCompileInputs.cache
+C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\WASM\Client\obj\Debug\net7.0\WASM.Client.MvcApplicationPartsAssemblyInfo.cache

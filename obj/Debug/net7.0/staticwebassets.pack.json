@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\obj\\Debug\\net7.0\\build-gz\\FbwWcO99.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\obj\\Debug\\net7.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\obj\\Debug\\net7.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\background\\presents1.jpg",
+      "PackagePath": "staticwebassets\\background\\presents1.jpg"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\bootstrap\\Bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\Bootstrap.css"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\icons\\gift.png",
+      "PackagePath": "staticwebassets\\icons\\gift.png"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bilInterop.js",
+      "PackagePath": "staticwebassets\\scripts\\bilInterop.js"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\scripts\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\scripts\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\scripts\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\scripts\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\dotnet.js",
+      "PackagePath": "staticwebassets\\scripts\\dotnet.js"
+    },
+    {
+      "Id": "C:\\BIL_DevOps\\BIL_Apps\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\helper.js",
+      "PackagePath": "staticwebassets\\scripts\\helper.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Phishing.WASM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Phishing.WASM.props",
+      "PackagePath": "build\\Phishing.WASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Phishing.WASM.props",
+      "PackagePath": "buildMultiTargeting\\Phishing.WASM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Phishing.WASM.props",
+      "PackagePath": "buildTransitive\\Phishing.WASM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
