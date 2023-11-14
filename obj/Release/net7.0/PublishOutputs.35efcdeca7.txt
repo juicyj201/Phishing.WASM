@@ -1,0 +1,1 @@
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\browser-wasm\PubTmp\Out\web.config

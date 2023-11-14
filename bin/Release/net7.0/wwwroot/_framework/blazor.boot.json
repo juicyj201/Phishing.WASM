@@ -201,15 +201,13 @@
       "mscorlib.dll": "sha256-1LEP8nUca7i3KzI4Zu9AD7rJ8CadngV0YUKjoHGiFxA=",
       "netstandard.dll": "sha256-+zXQN9625IUa11YLU5hNoQ04oHjCwFIJAXc8vOEMniU=",
       "System.Private.CoreLib.dll": "sha256-oytzvvuRkpVGZxuLwt9SR8n1KJzGeYroKTHxk0oZvfI=",
-      "Phishing.Common.dll": "sha256-+6mDDJ6wsJqsQcnc4PPWcQww\/iwA7Jn1lz4o0fHDsOk=",
-      "Phishing.WASM.dll": "sha256-hEuf1AhbGKtkZRqn2ef4pdHZcNi9LveB+IL2yA\/4dW0="
+      "Phishing.WASM.dll": "sha256-PsvkoZhpnR9bIi7XHmuq7cZhiGzOthqYuQitHe4aQtU="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Phishing.Common.pdb": "sha256-aLnA09VuwDHfpbmTBK4J5ZpeTgeaHu\/c4FX7WuwH5dA=",
-      "Phishing.WASM.pdb": "sha256-rOGQ+TxVZ0i5yijXqO5nMq1JB0BI3W3YyQ8molaHCvw="
+      "Phishing.WASM.pdb": "sha256-vDqa5ut8nGWmWvguSGTerwoV4Z+beaRp+hJ3+a\/\/nms="
     },
     "runtime": {
       "dotnet.7.0.13.2vngdpe1lb.js": "sha256-eRbsSkKiWKWKcMiqy13LuLSBIpzmn52qw\/6SX+1jNQ0=",

@@ -1,135 +1,139 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\bin\\Release\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\obj\\Release\\net7.0\\build-gz\\FbwWcO99.gz",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\obj\\Release\\net7.0\\build-gz\\FbwWcO99.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\obj\\Release\\net7.0\\service-worker-assets.js",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\obj\\Release\\net7.0\\service-worker-assets.js",
       "PackagePath": "staticwebassets\\service-worker-assets.js"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\obj\\Release\\net7.0\\service-worker\\service-worker.published.js",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\obj\\Release\\net7.0\\service-worker\\service-worker.published.js",
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\appsetting.Development.json",
-      "PackagePath": "staticwebassets\\appsetting.Development.json"
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\.nojekyll",
+      "PackagePath": "staticwebassets\\.nojekyll"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\appsettings.json",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\background\\presents1.jpg",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\background\\presents1.jpg",
       "PackagePath": "staticwebassets\\background\\presents1.jpg"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\bootstrap\\Bootstrap.css",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\bootstrap\\Bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\Bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\icon-512.png",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\icon-512.png",
       "PackagePath": "staticwebassets\\icon-512.png"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\icons\\gift.png",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\icons\\gift.png",
       "PackagePath": "staticwebassets\\icons\\gift.png"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\index.html",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\manifest.json",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\manifest.json",
       "PackagePath": "staticwebassets\\manifest.json"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bilInterop.js",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\scripts\\bilInterop.js",
       "PackagePath": "staticwebassets\\scripts\\bilInterop.js"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\scripts\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\scripts\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\scripts\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\scripts\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\scripts\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing\\Phishing\\Phishing\\Phishing.WASM\\wwwroot\\scripts\\helper.js",
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\scripts\\dotnet.js",
+      "PackagePath": "staticwebassets\\scripts\\dotnet.js"
+    },
+    {
+      "Id": "C:\\Users\\joshuaj\\Projects\\Phishing5\\Phishing.WASM\\wwwroot\\scripts\\helper.js",
       "PackagePath": "staticwebassets\\scripts\\helper.js"
     },
     {

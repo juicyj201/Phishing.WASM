@@ -1,15 +1,15 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-z2t+1q6gBZp61ZtSQT95bQshn8TiEH39ARObE+zYdwA=",
-      "url": "appsetting.Development.json"
+      "hash": "sha256-frcCV1k9oG9oKj3dpUqdJg1PxRT2RSN\/XKdLCPjaYaY=",
+      "url": ".nojekyll"
     },
     {
       "hash": "sha256-uMzagNRrV\/p9mSO3zOA2gfarDulSWPmOQdZNIb7nNOA=",
       "url": "background\/presents1.jpg"
     },
     {
-      "hash": "sha256-XCfjKXxZ7cbTo9yevibO0EVThDyn9uNnS0GW\/P7nMgU=",
+      "hash": "sha256-NhPd2UHEi\/EfDvz9VgWzqU8W7pDF+RnPgdfAfKPOcks=",
       "url": "css\/app.css"
     },
     {
@@ -77,7 +77,7 @@
       "url": "icons\/gift.png"
     },
     {
-      "hash": "sha256-kz89m\/5Z37NujLLB87hVhS1rkZdScAlIDywCPcgDzYM=",
+      "hash": "sha256-9MPTuT2VAs6pGYufiIDgt1iH6OiY\/EBDIKFfaDkHGlc=",
       "url": "index.html"
     },
     {
@@ -109,11 +109,15 @@
       "url": "scripts\/bootstrap.bundle.min.js.map"
     },
     {
-      "hash": "sha256-sG31TmAdvpnU4glbYkNWig4aJobOy7lNGzymiFHsojw=",
+      "hash": "sha256-WVA9YYlKV0xMZsFDei6O\/pENeBUOkx0uk1tFzZEwRTg=",
+      "url": "scripts\/dotnet.js"
+    },
+    {
+      "hash": "sha256-XxPoQus9WVbj8+MXhUDvJsPrML5n3nih9hz77NZ+gm8=",
       "url": "scripts\/helper.js"
     },
     {
-      "hash": "sha256-EoKDd+b4rIiPACU9M\/LDL1Sa5bqR9\/pkUygd9nsfgG0=",
+      "hash": "sha256-B1JWbaTFUicFxTZJXeRebRMuH+\/63XuOLjZPVydJ5Pc=",
       "url": "appsettings.json"
     },
     {
@@ -913,19 +917,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-+6mDDJ6wsJqsQcnc4PPWcQww\/iwA7Jn1lz4o0fHDsOk=",
-      "url": "_framework\/Phishing.Common.dll"
-    },
-    {
-      "hash": "sha256-aLnA09VuwDHfpbmTBK4J5ZpeTgeaHu\/c4FX7WuwH5dA=",
-      "url": "_framework\/Phishing.Common.pdb"
-    },
-    {
-      "hash": "sha256-hEuf1AhbGKtkZRqn2ef4pdHZcNi9LveB+IL2yA\/4dW0=",
+      "hash": "sha256-PsvkoZhpnR9bIi7XHmuq7cZhiGzOthqYuQitHe4aQtU=",
       "url": "_framework\/Phishing.WASM.dll"
     },
     {
-      "hash": "sha256-rOGQ+TxVZ0i5yijXqO5nMq1JB0BI3W3YyQ8molaHCvw=",
+      "hash": "sha256-vDqa5ut8nGWmWvguSGTerwoV4Z+beaRp+hJ3+a\/\/nms=",
       "url": "_framework\/Phishing.WASM.pdb"
     },
     {
@@ -933,9 +929,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-1Wz3RJ5C6yDtTFidTgrHnMUMhwFgYPcOTofJV\/7vJGA=",
+      "hash": "sha256-i9SnFqcaVWOZdF18scKPLjYM6cxztLCd1kMIqwqqdu4=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "6JlhpqKA"
+  "version": "m54bjrHA"
 };

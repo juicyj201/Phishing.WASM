@@ -5,7 +5,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 -->
 <Project>
   <PropertyGroup>
-    <History>False|2023-11-14T13:48:07.6053972Z;</History>
+    <History>True|2023-11-14T13:52:08.1648091Z;False|2023-11-14T15:48:07.6053972+02:00;</History>
     <LastFailureDetails />
+    <_PublishTargetUrl>C:\Users\joshuaj\Projects\Phishing4\Phishing</_PublishTargetUrl>
   </PropertyGroup>
 </Project>
