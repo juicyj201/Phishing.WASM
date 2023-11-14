@@ -839,3 +839,12 @@ C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\Phishing.WASM\obj\Release\n
 C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\Phishing.WASM\obj\Release\net7.0\refint\Phishing.WASM.dll
 C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.pdb
 C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\Phishing.WASM\obj\Release\net7.0\ref\Phishing.WASM.dll
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.csproj.AssemblyReference.cache
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.AssemblyInfoInputs.cache
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.AssemblyInfo.cs
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.csproj.CoreCompileInputs.cache
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.dll
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\refint\Phishing.WASM.dll
+C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\obj\Release\net7.0\Phishing.WASM.pdb

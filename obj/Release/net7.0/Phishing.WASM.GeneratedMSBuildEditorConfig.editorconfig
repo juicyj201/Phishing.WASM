@@ -9,33 +9,29 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Phishing.WASM
 build_property.RootNamespace = Phishing.WASM
-build_property.ProjectDir = C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\Phishing.WASM\
+build_property.ProjectDir = C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\joshuaj\Projects\Phishing\Phishing\Phishing\Phishing.WASM
+build_property.MSBuildProjectDirectory = C:\Users\joshuaj\Projects\Phishing5\Phishing.WASM
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/joshuaj/Projects/Phishing/Phishing/Phishing/Phishing.WASM/App.razor]
+[C:/Users/joshuaj/Projects/Phishing5/Phishing.WASM/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshuaj/Projects/Phishing/Phishing/Phishing/Phishing.WASM/MainLayout.razor]
+[C:/Users/joshuaj/Projects/Phishing5/Phishing.WASM/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshuaj/Projects/Phishing/Phishing/Phishing/Phishing.WASM/Pages/Gift/ViewGift.razor]
+[C:/Users/joshuaj/Projects/Phishing5/Phishing.WASM/Pages/Gift/ViewEnd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2lmdFxWaWV3RW5kLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshuaj/Projects/Phishing5/Phishing.WASM/Pages/Gift/ViewGift.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2lmdFxWaWV3R2lmdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joshuaj/Projects/Phishing/Phishing/Phishing/Phishing.WASM/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joshuaj/Projects/Phishing/Phishing/Phishing/Phishing.WASM/Pages/SharedBaseComp.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkQmFzZUNvbXAucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/joshuaj/Projects/Phishing/Phishing/Phishing/Phishing.WASM/_Imports.razor]
+[C:/Users/joshuaj/Projects/Phishing5/Phishing.WASM/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
