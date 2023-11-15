@@ -1,5 +1,13 @@
+[build]
+  command = "dotnet build"
+  publish = "/"
+
+[context.production]
+  [context.production.environment]
+    DOTNET_VERSION = "7.0.13"
+
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
-  
+
