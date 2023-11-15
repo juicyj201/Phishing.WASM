@@ -4,7 +4,7 @@
 
 [context.production]
   [context.production.environment]
-    DOTNET_VERSION = "7.0.13"
+    DOTNET_VERSION = "7.0"
 
 [[redirects]]
   from = "/*"
